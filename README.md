@@ -1,2 +1,15 @@
-# worldma
-World码--是一款微信扫码群发软件（客户裂变系统、街扫），由程序开发者hong基于微信网页版进行开发，该软件基于兴趣、学习研究而开发
+# Goodbye, the source code of World码！
+
+
+
+**微信号**：**317430678**
+
+
+<br />
+
+![world ma](https://github.com/shuicheng/worldma/raw/master/worldma/hong.png)
+
+<br />
+<br />
+
+
